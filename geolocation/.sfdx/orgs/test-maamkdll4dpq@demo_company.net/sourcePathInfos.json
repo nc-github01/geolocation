@@ -32,28 +32,28 @@
     [
         "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1510315378074,
-            "changeTime": 1510315378074,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
+            "modifiedTime": 1510317162181,
+            "changeTime": 1510317162181,
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1510314932369,
-            "changeTime": 1510314932369,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 0,
+            "modifiedTime": 1510319572370,
+            "changeTime": 1510319572370,
+            "isWorkspace": false,
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
         }
     ],
     [
@@ -62,7 +62,7 @@
             "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\classes",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1510313783975,
+            "modifiedTime": 1510318032478,
             "changeTime": 1510313867970,
             "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
             "isMetadataFile": false,
@@ -76,14 +76,12 @@
         {
             "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
-            "size": 301,
-            "modifiedTime": 1510314436575,
-            "changeTime": 1510314436575,
-            "contentHash": "69e2901760ff821d0bf0203d9d16847186655b22",
+            "size": 292,
+            "modifiedTime": 1510318032479,
+            "changeTime": 1510318032479,
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -91,14 +89,12 @@
         {
             "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
             "isDirectory": false,
-            "size": 195,
-            "modifiedTime": 1510313783978,
-            "changeTime": 1510313783978,
-            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f",
+            "size": 174,
+            "modifiedTime": 1510318032465,
+            "changeTime": 1510318032465,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -287,9 +283,9 @@
             "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1510314932407,
-            "changeTime": 1510314995312,
-            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
+            "modifiedTime": 1510317162503,
+            "changeTime": 1510317162503,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -299,10 +295,10 @@
         {
             "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
-            "size": 163,
-            "modifiedTime": 1510315029498,
-            "changeTime": 1510315029498,
-            "contentHash": "99715624e501a199bba667d8c00378e7da3a9664",
+            "size": 218,
+            "modifiedTime": 1510318375157,
+            "changeTime": 1510318375157,
+            "contentHash": "04a38a8d7316da02d8b48439771c0b18e07d517d",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -312,10 +308,10 @@
         {
             "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
             "isDirectory": false,
-            "size": 246,
-            "modifiedTime": 1510314932385,
-            "changeTime": 1510314932385,
-            "contentHash": "652875ccc6ba6e08028b1aa51773d72e376e436f",
+            "size": 228,
+            "modifiedTime": 1510317162439,
+            "changeTime": 1510317162439,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -325,10 +321,10 @@
         {
             "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
             "isDirectory": false,
-            "size": 126,
-            "modifiedTime": 1510315087426,
-            "changeTime": 1510315087426,
-            "contentHash": "a4bfe90e60906385ba780acc2562085f705f4352",
+            "size": 124,
+            "modifiedTime": 1510317162490,
+            "changeTime": 1510317162490,
+            "contentHash": "63b27198279f7a656a3a1bd661cb1cf79f663540",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -338,10 +334,10 @@
         {
             "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
             "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1510314932391,
-            "changeTime": 1510314932391,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "size": 64,
+            "modifiedTime": 1510317162466,
+            "changeTime": 1510317162466,
+            "contentHash": "65072628efe5f0288eba365d51e9e7c918b02897",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -351,10 +347,10 @@
         {
             "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
             "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1510314932397,
-            "changeTime": 1510314932397,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "size": 44,
+            "modifiedTime": 1510317162481,
+            "changeTime": 1510317162481,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -364,10 +360,10 @@
         {
             "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
             "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1510314932409,
-            "changeTime": 1510314932409,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "size": 49,
+            "modifiedTime": 1510317162500,
+            "changeTime": 1510317162500,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -375,92 +371,638 @@
     [
         "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1510315378056,
             "changeTime": 1510315378056,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 17256,
             "modifiedTime": 1510315378088,
             "changeTime": 1510315378088,
-            "contentHash": "ffd6d3373d5b87a5161302a5ae3e9f5cf2bcb0b4"
+            "contentHash": "ffd6d3373d5b87a5161302a5ae3e9f5cf2bcb0b4",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4461,
             "modifiedTime": 1510315378095,
             "changeTime": 1510315378095,
-            "contentHash": "73ad8397e6863de42f0fd812a59698623ba7af38"
+            "contentHash": "73ad8397e6863de42f0fd812a59698623ba7af38",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4457,
             "modifiedTime": 1510315378101,
             "changeTime": 1510315378101,
-            "contentHash": "b07203be5b54f0b386be1f56467864b68e67c390"
+            "contentHash": "b07203be5b54f0b386be1f56467864b68e67c390",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4797,
             "modifiedTime": 1510315378109,
             "changeTime": 1510315378109,
-            "contentHash": "8cf9ff9aa4943adae1d59512fb0d4ca8b2dcfbf9"
+            "contentHash": "8cf9ff9aa4943adae1d59512fb0d4ca8b2dcfbf9",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\tabs",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1510315378054,
             "changeTime": 1510315378054,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1510315378108,
             "changeTime": 1510315378108,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+        {
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1510318032455,
+            "changeTime": 1510315951277,
+            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
+        {
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1510315763582,
+            "changeTime": 1510315808128,
+            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 560,
+            "modifiedTime": 1510320026587,
+            "changeTime": 1510320026587,
+            "contentHash": "84270567ff993762e7ac4f0ab85ac09aa3bd1cf3"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1510318032417,
+            "changeTime": 1510318032417,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+        {
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+            "isDirectory": false,
+            "size": 117,
+            "modifiedTime": 1510316093460,
+            "changeTime": 1510316093460,
+            "contentHash": "85dde2885dc3136657a01a064788e1599d165ce5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 406,
+            "modifiedTime": 1510320074882,
+            "changeTime": 1510320074882,
+            "contentHash": "3c00cbfaec8dced83cda74daf23e53204dbf0354"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+        {
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+            "isDirectory": false,
+            "size": 44,
+            "modifiedTime": 1510318032441,
+            "changeTime": 1510318032441,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+            "isDirectory": false,
+            "size": 49,
+            "modifiedTime": 1510318032456,
+            "changeTime": 1510318032456,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+        {
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+            "isDirectory": false,
+            "size": 124,
+            "modifiedTime": 1510315834597,
+            "changeTime": 1510315834597,
+            "contentHash": "a7e64cb890da8060f622d5741476dbdbda0b37a1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1510315763559,
+            "changeTime": 1510315763559,
+            "contentHash": "dc9e3ef3297121e477d211d184a4c93536e11d71",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+        {
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+            "isDirectory": false,
+            "size": 182,
+            "modifiedTime": 1510315870109,
+            "changeTime": 1510315870109,
+            "contentHash": "ad72ce8d2318d219b26ab341f0c85ca87d3a8a3a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+        {
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1510315763568,
+            "changeTime": 1510315763568,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+        {
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1510315763573,
+            "changeTime": 1510315763573,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1510315763584,
+            "changeTime": 1510315763584,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1510317162186,
+            "changeTime": 1510317162186,
+            "contentHash": "fe95029d9d0695d7ebbb9f1ee9a2a5448a6e8fbb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet",
+        {
+            "sourcePath": "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1510317162423,
+            "changeTime": 1510317162423,
+            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet/images",
+        {
+            "sourcePath": "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet/images",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1510317162218,
+            "changeTime": 1510317162218,
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
+        {
+            "sourcePath": "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
+            "isDirectory": false,
+            "size": 1259,
+            "modifiedTime": 1510317162200,
+            "changeTime": 1510317162200,
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
+        {
+            "sourcePath": "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
+            "isDirectory": false,
+            "size": 696,
+            "modifiedTime": 1510317162204,
+            "changeTime": 1510317162204,
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
+        {
+            "sourcePath": "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
+            "isDirectory": false,
+            "size": 2586,
+            "modifiedTime": 1510317162209,
+            "changeTime": 1510317162209,
+            "contentHash": "95a44b9ca71fe03fdf65ddd8eea12f1910f38de2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
+        {
+            "sourcePath": "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
+            "isDirectory": false,
+            "size": 1466,
+            "modifiedTime": 1510317162215,
+            "changeTime": 1510317162215,
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
+        {
+            "sourcePath": "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
+            "isDirectory": false,
+            "size": 618,
+            "modifiedTime": 1510317162219,
+            "changeTime": 1510317162219,
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
+        {
+            "sourcePath": "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
+            "isDirectory": false,
+            "size": 389832,
+            "modifiedTime": 1510317162284,
+            "changeTime": 1510317162284,
+            "contentHash": "19438b9a9d066e915e96db27259a5948c4f4f4e3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
+        {
+            "sourcePath": "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
+            "isDirectory": false,
+            "size": 741401,
+            "modifiedTime": 1510317162357,
+            "changeTime": 1510317162357,
+            "contentHash": "a93b2d29416cb0ec882ac28f41dcc4bd18e1cd99",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
+        {
+            "sourcePath": "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
+            "isDirectory": false,
+            "size": 14061,
+            "modifiedTime": 1510317162365,
+            "changeTime": 1510317162365,
+            "contentHash": "d7015409fa5ce3f54a60c25562a7ebf858d90397",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
+        {
+            "sourcePath": "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
+            "isDirectory": false,
+            "size": 137208,
+            "modifiedTime": 1510317162414,
+            "changeTime": 1510317162414,
+            "contentHash": "87938b386fd7224a667332336c59b79e7fa0fde6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
+        {
+            "sourcePath": "C:/Users/ncaicedo/my_2nd_sdfx_prjct/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
+            "isDirectory": false,
+            "size": 186247,
+            "modifiedTime": 1510317162428,
+            "changeTime": 1510317162428,
+            "contentHash": "0e397274f80e9a86d4ad7a6534c23ba9e10b6448",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
+        {
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1510317162423,
+            "changeTime": 1510317162423,
+            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+        {
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+            "isDirectory": false,
+            "size": 41,
+            "modifiedTime": 1510317162445,
+            "changeTime": 1510317162445,
+            "contentHash": "d2fdcfd6e18b15889904738a1e82c97ab8fd8108",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+        {
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1510317162471,
+            "changeTime": 1510317162471,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+        {
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1510317162505,
+            "changeTime": 1510317162505,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\staticresources",
+        {
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1510317162193,
+            "changeTime": 1510317162193,
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+        {
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1510318239070,
+            "changeTime": 1510318239070,
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 345,
+            "modifiedTime": 1510320159331,
+            "changeTime": 1510320159331,
+            "contentHash": "8794e8a070739dd78af9b775c1655b8007c4dad0"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1510318584203,
+            "changeTime": 1510318584203,
+            "contentHash": "3a2d6938d275475fd4ed3800a5fe9151c0677f15",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+        {
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1510319475500,
+            "changeTime": 1510319475500,
+            "contentHash": "3fa5ccd072fda1594bbabd0012c53a119d594ed0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 854,
+            "modifiedTime": 1510320249826,
+            "changeTime": 1510320249826,
+            "contentHash": "2b613ed83c6f35331bd783a3687a37c8a6352dad"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+        {
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1510318584215,
+            "changeTime": 1510319326727,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1510318584226,
+            "changeTime": 1510318584226,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1510319572378,
+            "changeTime": 1510319895858,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1510319911571,
+            "changeTime": 1510319911571,
+            "contentHash": "e38d5240066962d02879f016f7dee09b1b6aa1d2"
+        }
+    ],
+    [
+        "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ncaicedo\\my_2nd_sdfx_prjct\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1510319572382,
+            "changeTime": 1510319572382,
+            "contentHash": "b69047ac083bd9c2a693a13cb3f5f7c31edcd663"
         }
     ]
 ]
